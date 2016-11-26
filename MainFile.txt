@@ -1,5 +1,5 @@
 New text in MainFile
 
-Added by Brian 
+Added by Brian D.
 
-Adding a third line of text.
+Modifying a third line of text.
